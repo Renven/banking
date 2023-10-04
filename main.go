@@ -1,6 +1,6 @@
 package main
 
-import "app/app"
+import "github.com/Renven/banking/app"
 
 func main() {
 	app.Start()
